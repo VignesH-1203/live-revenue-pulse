@@ -45,9 +45,6 @@
 
 3. Open the URL shown in the terminal (usually `http://localhost:8501`)
 
-## Screenshots
-
-*Screenshots placeholder — run the app to see the live dashboard.*
 
 ## Note
 
